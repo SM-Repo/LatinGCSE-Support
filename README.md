@@ -1,1 +1,1 @@
-# LatinGCSE-Support
+# LatinGCSE App: iOS Support Page
